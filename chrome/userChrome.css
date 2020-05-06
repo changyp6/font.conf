@@ -26,7 +26,7 @@
  * Make all the default font sizes 20 pt:
  */
 * { font-size: 10pt !important;
-    font-family: "Go","Open Sans","Free Sans","Arial","Tahoma","STHeiti","iPhoneHei Adobe","Adobe heiti Std","LiHei Pro","EmojiOne" !important;
+    font-family: "Go", "Arial", "STHeiti", "iPhoneHei Adobe", "Adobe heiti Std", "LiHei Pro", "EmojiOne" !important;
 }
 
 /*
@@ -41,7 +41,7 @@
  * Give the Location (URL) Bar a fixed-width font
  */
 #urlbar {
-   font-family: "Go Mono","Source Code Pro","Menlo","Monaco","Consolas","Hack","STHeiti","iPhoneHei Adobe","Adobe Heiti Std","LiHei Pro","EmojiOne"!important;
+   font-family: "Go Mono", "Source Code Pro", "Menlo", "Monaco", "Consolas", "Hack", "STHeiti", "iPhoneHei Adobe", "Adobe Heiti Std", "LiHei Pro", "EmojiOne" !important;
 }
 
 /*

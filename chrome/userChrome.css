@@ -25,8 +25,8 @@
 /*
  * Make all the default font sizes 20 pt:
  */
-* { font-size: 10pt !important;
-    font-family: "Go", "Arial", "STHeiti", "iPhoneHei Adobe", "Adobe heiti Std", "LiHei Pro", "EmojiOne" !important;
+* { font-size: 9pt !important;
+    font-family: "Go","Open Sans","Free Sans","Arial","Tahoma","STHeiti","iPhoneHei Adobe","Adobe heiti Std","LiHei Pro","EmojiOne" !important;
 }
 
 /*

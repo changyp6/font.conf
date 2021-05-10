@@ -41,7 +41,7 @@
  * Give the Location (URL) Bar a fixed-width font
  */
 #urlbar {
-   font-family: "Go Mono", "Source Code Pro", "Menlo", "Monaco", "Consolas", "Hack", "STHeiti", "iPhoneHei Adobe", "Adobe Heiti Std", "LiHei Pro", "EmojiOne" !important;
+   font-family: "JetBrains Mono", "Go Mono", "Source Code Pro", "Menlo", "Monaco", "Consolas", "Hack", "STHeiti", "iPhoneHei Adobe", "Adobe Heiti Std", "LiHei Pro", "EmojiOne" !important;
 }
 
 /*
